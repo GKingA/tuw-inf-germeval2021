@@ -1,0 +1,11 @@
+Notable false negatives (weird positives in the data):
+
+1193,@USER eididei sieh mal an,1,0,0
+1195,Und wer gab der Frau diese Bücher? Die @MODERATOR*in?,1,0,0
+1435,ein schöner VW Golf Diesel..,1,0,0
+1439,"Wo ist da EIN Wissenschaftler,...",1,0,0
+
+
+Notable false positives (weird negatives in the data):
+
+579,"Ingrid Hitz Deine Lesekompetenz lässt doch arg zu wünschen übrig. Ich bin übrigens Deutscher. Und Neo-Eugenik ist scheisse, warum, muss ich Dir bestimmt nicht erklären.",0,0,1
